@@ -1,13 +1,8 @@
 <h1 align="center">¡Hola! Soy Carlos Andres Lindarte Manrique 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;aprendiz+de+Programaci%C3%B3n+📘;Amante+del+futbol⚽;Siempre+aprendiendo+algo+nuevo+🚀; orgullo+éscarlata+por+siempre👹" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Docente+de+Programaci%C3%B3n+📘;Amante+del+C%C3%B3digo+y+el+Caf%C3%A9+☕;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
 </p>
-
-<p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
-
----
-
 
 
 ### 🧑💻 Sobre mí
