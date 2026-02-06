@@ -35,3 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosan0967&" alt="carlosan0967" /></p>
 
+</p>
+
+<p align="center">Gracias por pasarte por aquí 😊 ¡Te deseo lo mejor y que la pases bien en este perfil! </p>
+
+
