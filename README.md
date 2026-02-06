@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Carlos Andres Lindarte Manrique</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">¡Hola! Soy Carlos Andres Lindarte Manrique 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosan0967&label=Profile%20views&color=0e75b6&style=flat" alt="carlosan0967" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;aprendiz+de+Programaci%C3%B3n+📘;Amante+del+futbol⚽;Siempre+aprendiendo+algo+nuevo+🚀; orgullo+éscarlata+por+siempre👹" alt="Typing SVG" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosan0967" alt="carlosan0967" /></a> </p>
+
+### 🧑💻 Sobre mí
+
+- 📍 Desde Bucaramanga, Santander – Colombia 🇨🇴  
+- 👨🏫 alumno apasionado por compartir el poder del código y los esports  
+- 🧠 En constante aprendizaje: idiomas, tecnología y vida  
+- 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (intermedio) | Italiano 🇮🇹 (principiante)
+
+---
 
 - I’m currently working on **globant**
 
