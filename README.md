@@ -10,7 +10,7 @@
 - 📍 Desde Bucaramanga, Santander – Colombia 🇨🇴  
 - 👨🏫 alumno apasionado por compartir el poder del código y los esports  
 - 🧠 En constante aprendizaje: idiomas, tecnología y vida  
-- 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (intermedio) | Italiano 🇮🇹 (principiante)
+- 🗣️ Idiomas: Español 🇪🇸 | Inglés B1 (intermedio) |
 
 ---
 
