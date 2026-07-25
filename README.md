@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Carlos Andres Lindarte Manrique y soy homosexual. me gustan las gordas de color👋</h1>
+<h1 align="center">¡Hola! Soy Carlos Andres Lindarte Manrique👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Alumno+de+Programaci%C3%B3n+📘;Amante+del+C%C3%B3digo+y+el+futbol+;Siempre+orgullo+escarlata+👹" alt="Typing SVG" />
