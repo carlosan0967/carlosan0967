@@ -22,25 +22,20 @@ Soy desarrollador de software enfocado en el diseño y construcción de APIs RES
 
 Aquí encuentras mis repositorios principales con documentación completa, arquitectura aplicada y tecnologías implementadas:
 
-#### 1. 🎓 [CampusDESK](https://github.com/carlosan0967/CampusDESK) *(Verifica el nombre exacto de tu repo)*
+#### 1. 🎓 [CampusDESK](https://github.com/carlosan0967/CampusDESK)
 Plataforma web de gestión académica y administrativa diseñada para centralizar procesos institucionales.
 - **Tecnologías:** `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `JavaScript` `HTML5/CSS3`
 - **Funcionalidades clave:** Autenticación y autorización basada en roles mediante JSON Web Tokens (JWT), API RESTful segura, control de sesiones y panel administrativo dinámico.
 
-#### 2. 🚚 [RapidExpress](https://github.com/carlosan0967/RapidExpress) *(Verifica el nombre exacto de tu repo)*
+#### 2. 🚚 [RapidExpress](https://github.com/carlosan0967/RapidExpress)
 Sistema de gestión de flotas, envíos y rutas logísticas con persistencia en la nube.
 - **Tecnologías:** `Java` `MySQL` `JDBC / JPA` `Patrón MVC`
 - **Funcionalidades clave:** Arquitectura Modelo-Vista-Controlador (MVC), trazabilidad de rutas y despachos, operaciones CRUD optimizadas y conexión a base de datos relacional en la nube.
 
-#### 3. 🎬 [Netflix Database Normalization & ETL](https://github.com/carlosan0967) *(Actualiza el link al repo si es público)*
-Diseño, normalización en Tercera Forma Normal (3NF) y pipeline de transformación de datos sobre el dataset de títulos de Netflix.
-- **Tecnologías:** `PostgreSQL` `SQL` `Docker` `Data Modeling`
-- **Funcionalidades clave:** Creación de tablas *staging*, limpieza e ingesta de datos mediante scripts SQL, modelado entidad-relación (3NF) y despliegue en contenedor Docker.
-
-#### 4. 🎵 [Music Store Web App](https://github.com/carlosan0967) *(Actualiza el link al repo)*
+#### 3. 🎵 [Music Store Web App](https://github.com/carlosan0967)
 Aplicación web interactiva de catálogo y tienda musical con diseño responsivo.
 - **Tecnologías:** `HTML5` `CSS3` `JavaScript` `Python`
-- **Funcionalidades clave:** Interfaz de usuario moderna sin dependencias pesadas, filtrado de catálogo y utilidades de persistencia de estructuras de datos.
+- **Funcionalidades clave:** Interfaz de usuario moderna sin dependencias pesadas, filtrado dinámico de catálogo y utilidades de persistencia de estructuras de datos.
 
 ---
 
@@ -104,11 +99,11 @@ Aplicación web interactiva de catálogo y tienda musical con diseño responsivo
 ¿Tienes un proyecto en mente o una oportunidad laboral? ¡Conectemos!
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/carlos-andres-lindarte-manrrique-780774424/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:carloslindarte694@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/carlosan0967" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -116,6 +111,7 @@ Aplicación web interactiva de catálogo y tienda musical con diseño responsivo
 </p>
 
 - 📧 **Email directo:** [carloslindarte694@gmail.com](mailto:carloslindarte694@gmail.com)
+- 💼 **LinkedIn:** [Carlos Andrés Lindarte Manrique](https://www.linkedin.com/in/carlos-andres-lindarte-manrrique-780774424/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Footer" />
