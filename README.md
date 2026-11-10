@@ -9,10 +9,10 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador de software enfocado en el diseño y construcción de APIs RESTful seguras, arquitecturas escalables y gestión de bases de datos relacionales. Me apasiona resolver problemas complejos mediante código limpio y buenas prácticas de ingeniería.
+Soy desarrollador de software enfocado en el diseño y construcción de APIs RESTful seguras, arquitecturas escalables, automatización de flujos y gestión de bases de datos relacionales. Me apasiona resolver problemas complejos mediante código limpio y buenas prácticas de ingeniería.
 
 - 📍 **Ubicación:** Bucaramanga, Santander – Colombia 🇨🇴
-- 💼 **Enfoque actual:** Desarrollo Backend con **Java, Spring Boot, Spring Security (JWT) y JPA**, además de despliegue en contenedores con **Docker**.
+- 💼 **Enfoque actual:** Desarrollo Backend con **Java, Spring Boot, Spring Security (JWT) y JPA**, automatización con **n8n** y despliegue en contenedores con **Docker**.
 - 🌱 **En constante aprendizaje:** Microservicios, optimización de consultas SQL, bases de datos vectoriales e inglés técnico.
 - 🗣️ **Idiomas:** Español (Nativo) 🇪🇸 | Inglés (B1 - Intermedio) 🇺🇸
 
@@ -32,10 +32,10 @@ Sistema de gestión de flotas, envíos y rutas logísticas con persistencia en l
 - **Tecnologías:** `Java` `MySQL` `JDBC / JPA` `Patrón MVC`
 - **Funcionalidades clave:** Arquitectura Modelo-Vista-Controlador (MVC), trazabilidad de rutas y despachos, operaciones CRUD optimizadas y conexión a base de datos relacional en la nube.
 
-#### 3. 🎵 [Music Store Web App](https://github.com/carlosan0967)
-Aplicación web interactiva de catálogo y tienda musical con diseño responsivo.
-- **Tecnologías:** `HTML5` `CSS3` `JavaScript` `Python`
-- **Funcionalidades clave:** Interfaz de usuario moderna sin dependencias pesadas, filtrado dinámico de catálogo y utilidades de persistencia de estructuras de datos.
+#### 3. ⚡ [Workflow Automation & Backend Integration (n8n)](https://github.com/carlosan0967/proyecto_n8n-)
+Sistema de automatización de flujos de trabajo e integración de servicios mediante webhooks y APIs REST.
+- **Tecnologías:** `n8n` `Docker` `REST APIs` `Webhooks` `JSON` `JavaScript`
+- **Funcionalidades clave:** Orquestación de procesos automatizados, conexión entre servicios externos, transformación de datos en tiempo real y ejecución de flujos basados en eventos.
 
 ---
 
