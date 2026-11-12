@@ -22,7 +22,7 @@ Soy desarrollador de software enfocado en el diseño y construcción de APIs RES
 
 Aquí encuentras mis repositorios principales con documentación completa, arquitectura aplicada y tecnologías implementadas:
 
-#### 1. 🎓 [CampusDESK](https://github.com/carlosan0967/CampusDESK)
+#### 1. 🎓 [CampusDESK](https://github.com/santiagopabonmolina/CampusDESK)
 Plataforma web de gestión académica y administrativa diseñada para centralizar procesos institucionales.
 - **Tecnologías:** `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `JavaScript` `HTML5/CSS3`
 - **Funcionalidades clave:** Autenticación y autorización basada en roles mediante JSON Web Tokens (JWT), API RESTful segura, control de sesiones y panel administrativo dinámico.
